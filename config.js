@@ -44,11 +44,11 @@ global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.urlnya = "GA ADA"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62 882-3993-8813'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
